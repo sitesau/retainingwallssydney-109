@@ -1,0 +1,22 @@
+{
+  "wheel_id": 443,
+  "structure": "umbrella",
+  "slug": "retainingwallssydney-109",
+  "project": "retaining-walls-sydney-pros-and-cons-1e58256d3cbdec61b37aff9330",
+  "parent_t1_ref": "retainingwallssydney-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallssydney.net.au",
+  "primary_kw": "retaining walls sydney pros and cons",
+  "intended_url": "http://retaining-walls-sydney-pros-and-cons-1e58256d3cbdec61b37aff9330.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "e9858dc76cfd638b",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/retainingwallssydney-152/",
+      "anchor": "https://sitesau.github.io/retainingwallssydney-152/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
